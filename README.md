@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BlocSpot
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -2445,4 +2444,8 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
->>>>>>> checkpoint-2748
+ checkpoint-2748
+=======
+# BlocSpot
+Repo for Bloc Assignments
+431a969e99141b968a56a66a8a98d5884f07aff9
